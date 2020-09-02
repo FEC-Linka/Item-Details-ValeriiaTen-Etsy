@@ -1,4 +1,5 @@
 Item Details Module
 
-// "seedDescription": node filename,
-// "seedProduct": node filename
+
+  // "seedDescription": node filename,
+  // "seedProduct": node filename
